@@ -1,5 +1,5 @@
 # Zandu Core 
-This is the core api of Zandu CMS. 
+This is the core api of Zandu CMS. A full fledged content management system by [Eaglestack Software](https://eaglestack.tech).
 
 ## Getting Started
 ### Installation
